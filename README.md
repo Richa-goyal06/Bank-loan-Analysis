@@ -8,3 +8,13 @@
 ## Dashboard 1: Summary
 ### Banks and financial institutions handle thousands of loan applications every month. However, without a structured analytics system, it becomes challenging to monitor lending performance, track repayments, and evaluate borrower health.
 ### This project addresses that challenge by building a Power BI dashboard that tracks key KPIs like total loan applications, funded amounts, repayments, interest rates, and DTI ratios. It also includes a loan status grid view to differentiate good and bad loans, enabling faster, data-driven decisions in lending operations.
+
+## Process :
+## Data Extraction & Analysis (MySQL):
+### Raw loan data was queried directly from a structured MySQL database using SQL. This step involved filtering relevant fields, joining multiple tables, and deriving calculated metrics required for business analysis.
+
+## Data Preprocessing & Cleaning (Power Pivot):
+### The extracted data was loaded into Power Pivot for transformation. Key operations included handling missing values, standardizing formats, creating calculated columns (e.g., DTI ratio), and preparing the data model for reporting.
+
+## Dashboard Development (Power BI):
+### Cleaned data was visualized using Power BI. Interactive dashboards were built with filters, slicers, KPIs, and grid views, offering insights into loan performance, borrower risk, and month-over-month trends in lending operations.
