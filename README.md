@@ -18,3 +18,16 @@
 
 ### -Dashboard Development (Power BI):
 ### Cleaned data was visualized using Power BI. Interactive dashboards were built with filters, slicers, KPIs, and grid views, offering insights into loan performance, borrower risk, and month-over-month trends in lending operations.
+
+## Project insight
+- Most loans were approved for applicants with strong credit history and lower DTI ratios.
+
+- Urban customers had higher average loan amounts but also slightly higher default rates.
+
+- The majority of defaults occurred in loans with longer terms and lower co-applicant income.
+
+- Month-over-month loan approvals increased, but funded amounts remained steady — indicating tighter screening.
+
+- Average interest rates remained stable, but high-risk borrowers were charged slightly more.
+
+
